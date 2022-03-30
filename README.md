@@ -1,2 +1,4 @@
 # VelocityProfiles
-Numerical calculations for velocity profiles. Side project, stemming from L.A. Barbara's fantastic lecture [series](https://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/).
+Numerical calculations for velocity profiles. Side project, stemming from L.A. Barbara's fantastic lecture [series](https://lorenabarba.com/blog/cfd-python-12-steps-to-navier-stokes/). Probably very inaccurate, but was fun to make.
+
+![Text](https://github.com/RussianMilitaryBlimp/VelocityProfiles/images/0.3kgps.png?raw=true)
